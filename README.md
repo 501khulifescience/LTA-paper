@@ -1,4 +1,4 @@
-# postbiotic-lta-audit
+# postbiotic-lta
 
 An audit of what the public sequence record can and cannot say about
 lipoteichoic acid D-alanylation, and the analysis behind
